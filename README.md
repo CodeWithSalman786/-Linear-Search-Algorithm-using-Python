@@ -1,4 +1,4 @@
-# -Linear-Search-Algorithm-using-Pytho
+# -Linear-Search-Algorithm-using-Python 
 # Linear Search Algorithm using Python
 
 Welcome to the Pythonic Pursuit of Linear Search!
